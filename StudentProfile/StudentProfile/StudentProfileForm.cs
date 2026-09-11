@@ -9,7 +9,7 @@ namespace StudentProfile
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("Student Profile - GitHub");
+            MessageBox.Show("Student Profile - Mark Gian \n Contack Num: 09037485739");
         }
     }
 }
